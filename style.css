@@ -3,7 +3,7 @@
     src: url(/Italiana-Regular.ttf);
 }
 @font-face {
-    font-family:"Nunito" ;
+    font-family:"Nunito",Arial, Helvetica, sans-serif ;
     src: url(/Nunito-VariableFont_wght.ttf);
 }
 
@@ -15,7 +15,7 @@ position: relative;
 }
 
 h1, h2, h3, h4{
-    font-family: "Italiana";
+    font-family: "Italiana",Arial, Helvetica, sans-serif;
 }
 
 p{
