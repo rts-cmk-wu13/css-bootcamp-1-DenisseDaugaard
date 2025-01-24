@@ -1,0 +1,37 @@
+@font-face {
+    font-family:"Italiana" ;
+    src: url(/Italiana-Regular.ttf);
+}
+@font-face {
+    font-family:"Nunito" ;
+    src: url(/Nunito-VariableFont_wght.ttf);
+}
+
+body {
+font-family: "Nunito";
+background-color: rgb(198, 163, 230);
+line-height: 1rem;
+position: relative;
+}
+
+h1, h2, h3, h4{
+    font-family: "Italiana";
+}
+
+p{
+    font-weight:bold;
+    color: white;
+}
+
+img {
+    aspect-ratio: 16/9;
+    width: 20rem;
+}
+
+figcaption {
+    font-weight: bold;
+    color: rgb(108, 155, 13);
+    position: absolute;
+    top: 65%;
+    right: 50%;
+}
