@@ -35,3 +35,7 @@ figcaption {
     top: 65%;
     right: 50%;
 }
+
+ul li:last-child {
+   color: aqua;
+}
